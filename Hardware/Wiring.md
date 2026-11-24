@@ -4,8 +4,9 @@ This file talks about specifics on how my project is wired as well as an illustr
 ## Pin mapping
 
 ```mermaid
-chart test!
-    "test" : "hello" : "hi"
-    "test" : "hello" : "hi"
-    "test" : "hello" : "hi"
+pie title test!
+    "Test 1" : 40
+    "Test 2" : 35
+    "Test 3" : 25
 ```
+
