@@ -5,7 +5,7 @@ This file talks about specifics on how my project is wired as well as an illustr
 
 '''mermaid
 chart test!
-    "test" : hello : hi
-    "test" : hello : hi
-    "test" : hello : hi
+    "test" : "hello" : "hi"
+    "test" : "hello" : "hi"
+    "test" : "hello" : "hi"
 '''
