@@ -1,5 +1,6 @@
 # Devlog 0
 planning phase
+
 Date: November 11, 2026 (forgot to write the planning devlog back then but that's when we finished planning)
 
 ## Project Overview
