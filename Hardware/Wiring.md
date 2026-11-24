@@ -3,10 +3,9 @@ This file talks about specifics on how my project is wired as well as an illustr
 
 ## Pin mapping
 
-```mermaid
-pie title test!
-    "Test 1" : 40
-    "Test 2" : 35
-    "Test 3" : 25
-```
 
+| Test 1 | Test 2 | Test 3 |
+| :--- | :---: | ---: |
+| test | hello | hi |
+| test | hello | hi |
+| test | hello | hi |
