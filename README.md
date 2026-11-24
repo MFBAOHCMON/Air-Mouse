@@ -1,6 +1,5 @@
 # AIR-MOUSE README
-### This repository talks about my 'air-mouse' project! I will be including the wiring, how it works, and more(maybe) :D
----
+This repository talks about my 'air-mouse' project! I will be including the wiring, how it works, and more(maybe) :D
 
 
 ## HOW IT WORKS
