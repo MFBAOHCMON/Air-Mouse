@@ -31,3 +31,5 @@ TOTAL COST|   | 5.7|   |
 | GPIO 2 | Right Tactile Switch | Right Click / Scroll Up |
 | 3.3V | MPU6050 VCC | Power |
 | GND | MPU6050 GND & Switch GND | Ground |
+
+<img width="557" height="529" alt="Wiring" src="https://github.com/user-attachments/assets/e71b3547-e497-4d3e-bf46-5bb9dac4268b" />
