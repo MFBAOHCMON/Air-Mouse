@@ -15,4 +15,4 @@ Finished coding the project in the last 3 days (time is logged in my Hackatime).
 - And MUCH more
 
 
-wow this is kind of a short dev log....
+All code is available in my Air-mouse.ino(github.com/MFBAOHCMON/Air-Mouse/blob/main/Air-Mouse.ino)
