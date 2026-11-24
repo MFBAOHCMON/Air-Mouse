@@ -16,3 +16,8 @@ this file talks about the hardware needed for the Air Mouse <3
 - Left click/scroll
 - Right click/scroll
 - no "etc" this time :(
+
+# 4. Power source
+- supplies power(obviously)
+- Might require a seperate charger port unit
+- etc...?
